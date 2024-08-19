@@ -1,0 +1,41 @@
+li {
+    float: left;
+  }
+  
+  img{
+    height: 800px;
+  }
+  
+  a {
+    
+    
+    
+    
+  }
+ul li a{
+    color: rgb(22, 204, 180);
+}
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+ td:hover {
+    background-color: black;
+  }
+  body{
+    background-image: url('ind.jpg');
+    background-size: cover;
+    background-position: fixed;
+    background-repeat: no-repeat;
+  }
+
+  
